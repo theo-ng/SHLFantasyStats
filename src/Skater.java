@@ -1,12 +1,14 @@
 
-public class Skater {
+public class Skater extends Player{
 
 	private String name;
+	private char position;
 	private int goals, assists, points, hits, blocks;
 	private double fantasyValue;
 	
 	public Skater(String pname, int g, int a, int p, int h, int b) {
 		name = pname;
+		position = 'F';
 		goals = g;
 		assists = a;
 		points = p;
@@ -17,6 +19,10 @@ public class Skater {
 	
 	public String getName() {
 		return name;
+	}
+	
+	public char getPosition() {
+		return position;
 	}
 	
 	public int getGoals() {
@@ -45,6 +51,10 @@ public class Skater {
 	
 	public void setName(String name) {
 		this.name = name;
+	}
+	
+	public void setPosition(char c) {
+		this.position = c;
 	}
 	
 	public void setGoals(int goals) {

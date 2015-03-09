@@ -27,8 +27,9 @@ public class GoalieParser {
 		print("Fetching %s...", s22url);
 		Document doc = Jsoup.connect(s22url).get();
 		Elements tstats = doc.select("pre");
+		print("Parsing Goalie data");
 		parseData(tstats);
-		print("Complete");
+		print("Exported to goalie.txt");
 	}
 
 	private static void print(String msg, Object... args) {

@@ -27,8 +27,9 @@ public class SkaterParser {
 		print("Fetching %s...", s22url);
 		Document doc = Jsoup.connect(s22url).get();
 		Elements tstats = doc.select("pre");
+		print("Parsing Skater data");
 		parseData(tstats);
-		print("Complete");
+		print("Exported to skater.txt");
 	}
 
 	private static void print(String msg, Object... args) {
