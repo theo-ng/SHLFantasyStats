@@ -21,7 +21,7 @@ import org.jsoup.select.Elements;
 
 public class SkaterParser {
 
-	private static String s22url = "https://dl.dropboxusercontent.com/u/34714712/SHL%20S22MAIN/SHL-ProTeamScoring.html"; 
+	private static String s22url = "https://dl.dropboxusercontent.com/u/34714712/S23%20-%20SHLMAIN/SHL-ProTeamScoring.html"; 
 
 	public static void main(String[] args) throws IOException {
 		print("Fetching %s...", s22url);
@@ -29,7 +29,6 @@ public class SkaterParser {
 		Elements tstats = doc.select("pre");
 		print("Parsing Skater data");
 		parseData(tstats);
-		print("Exported to skater.txt");
 	}
 
 	private static void print(String msg, Object... args) {
@@ -51,6 +50,28 @@ public class SkaterParser {
 			Double val = entry.getValue();
 			DecimalFormat df = new DecimalFormat("#.##");
 			String line = key + ": " + df.format(val) +"\n";
+			writer.write(line);
+		}
+		writer.close();
+	}
+	
+	private static void exportStats(List<Skater> list) throws IOException {
+		
+		String name;
+		Integer g,a,p,h,sb;
+		Skater sk;
+		File file = new File("SKstats.txt");
+		BufferedWriter writer = new BufferedWriter(new FileWriter(file));
+		for (int i=0;i<list.size();i++) {
+			sk = list.get(i);
+			name = sk.getName();
+			g = sk.getGoals();
+			a = sk.getAssists();
+			p = sk.getPoints();
+			h = sk.getHits();
+			sb = sk.getBlocks();
+			DecimalFormat df = new DecimalFormat("#.##");
+			String line = name+": "+df.format(g)+", "+df.format(a)+", "+df.format(p)+", "+df.format(h)+", "+df.format(sb)+"\n";
 			writer.write(line);
 		}
 		writer.close();
@@ -87,6 +108,7 @@ public class SkaterParser {
 	}
 	private static void parseData(Elements stats) {
 		Map<String,Double> players  = new HashMap<String, Double>();
+		List<Skater> skaters = new ArrayList<Skater>();
 		//Skaters node
 		for(Element e: stats) {
 			String name ;
@@ -103,6 +125,7 @@ public class SkaterParser {
 					h = Integer.parseInt(line[9]);
 					b = Integer.parseInt(line[15]);
 					Skater player = new Skater(name, g, a, p, h, b);
+					skaters.add(player);
 					players.put(player.getName(), player.getFantasyValue());
 				}
 				else if(line.length == 51) {
@@ -116,6 +139,7 @@ public class SkaterParser {
 					h = Integer.parseInt(line[11]);
 					b = Integer.parseInt(line[17]);
 					Skater player = new Skater(name, g, a, p, h, b);
+					skaters.add(player);
 					players.put(player.getName(), player.getFantasyValue());
 				}
 				else if(line.length == 50) {
@@ -126,12 +150,16 @@ public class SkaterParser {
 					h = Integer.parseInt(line[10]);
 					b = Integer.parseInt(line[16]);
 					Skater player = new Skater(name, g, a, p, h, b);
+					skaters.add(player);
 					players.put(player.getName(), player.getFantasyValue());
 				}
 			}
 		}
 		try {
 			writeFile(sortMap(players));
+			print("Exported to skater.txt");
+			exportStats(skaters);
+			print("Exported to SKstats.txt");
 		} catch (IOException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
