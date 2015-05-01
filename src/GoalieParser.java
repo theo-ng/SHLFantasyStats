@@ -21,7 +21,7 @@ import org.jsoup.select.Elements;
 
 public class GoalieParser {
 
-	private static String s22url = "https://dl.dropboxusercontent.com/u/34714712/SHL%20S22MAIN/SHL-ProTeamScoring.html"; 
+	private static String s22url = "https://dl.dropboxusercontent.com/u/34714712/S23%20-%20SHLMAIN/SHL-ProTeamScoring.html"; 
 
 	public static void main(String[] args) throws IOException {
 		print("Fetching %s...", s22url);
