@@ -29,7 +29,6 @@ public class GoalieParser {
 		Elements tstats = doc.select("pre");
 		print("Parsing Goalie data");
 		parseData(tstats);
-		print("Exported to goalie.txt");
 	}
 
 	private static void print(String msg, Object... args) {
@@ -54,6 +53,29 @@ public class GoalieParser {
 			writer.write(line);
 		}
 		writer.close();
+		print("Exported to goalie.txt");
+	}
+	
+	private static void exportStats(List<Goalie> log) throws IOException {
+		File file = new File("GStats.txt");
+		BufferedWriter writer = new BufferedWriter(new FileWriter(file));
+		Goalie g;
+		String gname;
+		Integer w,s,so;
+		Double fp;
+		for (int i=0;i<log.size();i++) {
+			g = log.get(i);
+			gname = g.getName();
+			w = g.getWins();
+			s = g.getSaves();
+			so = g.getShutouts();
+			fp = g.getFantasyValue();
+			DecimalFormat df = new DecimalFormat("#.##");
+			String line = gname+": "+df.format(w)+", "+df.format(s)+", "+df.format(so)+", "+df.format(fp)+"\n";
+			writer.write(line);
+		}
+		writer.close();
+		print("Exported to GStats.txt");
 	}
 	
 	private static LinkedHashMap sortMap(Map<String, Double> map) {
@@ -86,7 +108,8 @@ public class GoalieParser {
 		
 	}
 	private static void parseData(Elements stats) {
-		Map<String,Double> goalies  = new HashMap<String, Double>();
+		Map<String,Double> gmap  = new HashMap<String, Double>();
+		List<Goalie> goalies = new ArrayList<Goalie>();
 		//Goalies node
 		for(Element e: stats) {
 			String name ;
@@ -103,7 +126,8 @@ public class GoalieParser {
 					ga = Integer.parseInt(line[12]);
 					sa = Integer.parseInt(line[13]);
 					Goalie goalie = new Goalie(name, w, so, ga, sa);
-					goalies.put(goalie.getName(), goalie.getFantasyValue());
+					goalies.add(goalie);
+					gmap.put(goalie.getName(), goalie.getFantasyValue());
 				}
 				else if(line.length == 25) {
 					if(line[2].matches("\\(R\\)")) {
@@ -117,12 +141,14 @@ public class GoalieParser {
 					ga = Integer.parseInt(line[10]);
 					sa = Integer.parseInt(line[11]);
 					Goalie goalie = new Goalie(name, w, so, ga, sa);
-					goalies.put(goalie.getName(), goalie.getFantasyValue());
+					goalies.add(goalie);
+					gmap.put(goalie.getName(), goalie.getFantasyValue());
 				}
 			}
 		}
 		try {
-			writeFile(sortMap(goalies));
+//			writeFile(sortMap(gmap));
+			exportStats(goalies);
 		} catch (IOException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
