@@ -21,14 +21,14 @@ import org.jsoup.select.Elements;
 
 public class GoalieParser {
 
-	private static String s22url = "https://dl.dropboxusercontent.com/u/34714712/S23%20-%20SHLMAIN/SHL-ProTeamScoring.html"; 
+	private static String s22url = "https://dl.dropboxusercontent.com/u/34714712/S24%20-%20SHLMAIN/SHL-ProTeamScoring.html"; 
 
 	public static void main(String[] args) throws IOException {
 		print("Fetching %s...", s22url);
 		Document doc = Jsoup.connect(s22url).get();
-		Elements tstats = doc.select("pre");
+		Elements tstats = doc.select("table[class=basictablesorter]");
 		print("Parsing Goalie data");
-		parseData(tstats);
+		parseNewData(tstats);
 	}
 
 	private static void print(String msg, Object... args) {
@@ -71,25 +71,25 @@ public class GoalieParser {
 			so = g.getShutouts();
 			fp = g.getFantasyValue();
 			DecimalFormat df = new DecimalFormat("#.##");
-			String line = gname+": "+df.format(w)+", "+df.format(s)+", "+df.format(so)+", "+df.format(fp)+"\n";
+			String line = gname+": "+df.format(w)+", "+df.format(so)+", "+df.format(s)+", "+df.format(fp)+"\n";
 			writer.write(line);
 		}
 		writer.close();
 		print("Exported to GStats.txt");
 	}
 	
-	private static LinkedHashMap sortMap(Map<String, Double> map) {
-		List mapKeys = new ArrayList(map.keySet());
-		List mapVals = new ArrayList(map.values());
+	private static LinkedHashMap<String, Double> sortMap(Map<String, Double> map) {
+		List<String> mapKeys = new ArrayList<String>(map.keySet());
+		List<Double> mapVals = new ArrayList<Double>(map.values());
 		Collections.sort(mapVals, Collections.reverseOrder());
 		Collections.sort(mapKeys,Collections.reverseOrder());
 		
-		LinkedHashMap sortedmap = new LinkedHashMap();
+		LinkedHashMap<String, Double> sortedmap = new LinkedHashMap<String, Double>();
 		
-		Iterator valueIt = mapVals.iterator();
+		Iterator<Double> valueIt = mapVals.iterator();
 		while (valueIt.hasNext()) {
 			Object val = valueIt.next();
-			Iterator keyIt = mapKeys.iterator();
+			Iterator<String> keyIt = mapKeys.iterator();
 			
 			while(keyIt.hasNext()) {
 				Object key = keyIt.next();
@@ -107,6 +107,44 @@ public class GoalieParser {
 		return sortedmap;
 		
 	}
+	
+	private static void parseNewData(Elements stats) {
+		Map<String,Double> gmap  = new HashMap<String, Double>();
+		List<Goalie> goalies = new ArrayList<Goalie>();
+		for(int i=0;i<stats.size();i++) {
+			if(i%3==2) { 
+				Element table = stats.get(i);
+				Elements rows = table.select("tr");
+				String name ;
+				int w,so,sa,ga;
+				for(int j=0;j<rows.size();j++) {
+					Element row = rows.get(j);
+					Elements cols = row.select("td");
+
+					if(!cols.isEmpty()) {
+						name = cols.get(0).text();
+						w = Integer.parseInt(cols.get(2).text());
+						so = Integer.parseInt(cols.get(9).text());
+						ga = Integer.parseInt(cols.get(10).text());
+						sa = Integer.parseInt(cols.get(11).text());
+						Goalie goalie = new Goalie(name, w, so, ga, sa);
+						goalies.add(goalie);
+						gmap.put(goalie.getName(), goalie.getFantasyValue());
+					}
+
+				}
+			}
+		}
+		try {
+			writeFile(sortMap(gmap));
+			exportStats(goalies);
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+
+	}
+	
 	private static void parseData(Elements stats) {
 		Map<String,Double> gmap  = new HashMap<String, Double>();
 		List<Goalie> goalies = new ArrayList<Goalie>();
@@ -147,7 +185,7 @@ public class GoalieParser {
 			}
 		}
 		try {
-//			writeFile(sortMap(gmap));
+			writeFile(sortMap(gmap));
 			exportStats(goalies);
 		} catch (IOException e1) {
 			// TODO Auto-generated catch block

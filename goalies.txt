@@ -1,22 +1,24 @@
-C.J. James: 205.95
-Jackson Weekes: 193.15
-Jermaine Tennyson: 192.8
-Jakob Tanner: 168.25
-Jordin FourFour: 165.95
-Jakub Aittokallio: 163.55
-Colin Schmidt: 154.4
-Dustin Rose: 152.25
-Mark Harter: 145.65
-Hunter Wong: 144
-Dymo Ranjan: 142.05
-Lauris Prikulis: 140
-Edwin Ask: 38.5
-Mika Aalto: 22.45
-Cyan Winters: 21.4
-Rob Pressen: 18.75
-Valdermorts Karlensons: 13.3
-Mike Verminski: 11.25
-Eric White: 10.7
-Mike Schmidt: 9.8
-Antero Pelkonen: 8.55
-Aboud Chamas: 2.85
+Jackson Weekes: 329.65
+C.J. James: 285.05
+Lauris Prikulis: 282.75
+Jordin FourFour: 272
+Hunter Wong: 264.85
+Jakob Tanner: 264.65
+Valdermorts Karlensons (R): 263.45
+Arton Laxk: 251.85
+Dymo Ranjan: 248.2
+Mark Harter: 246.7
+Jakub Aittokallio: 242.6
+Colin Schmidt: 232.9
+Gustav Grimm (R): 40.15
+Jonas Gustavo: 40
+Edwin Ask: 39.25
+Rob Pressen: 36.3
+Ryan Winters: 36.25
+Phil Osgoode: 33.9
+Eric White: 31.2
+Adam Demko (R): 30
+Mike Verminski: 29.25
+Sergei Kozar: 28.2
+Antero Pelkonen: 25.95
+Erik Lundqvist: 25.8

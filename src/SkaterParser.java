@@ -21,14 +21,14 @@ import org.jsoup.select.Elements;
 
 public class SkaterParser {
 
-	private static String s22url = "https://dl.dropboxusercontent.com/u/34714712/S23%20-%20SHLMAIN/SHL-ProTeamScoring.html"; 
+	private static String s22url = "https://dl.dropboxusercontent.com/u/34714712/S24%20-%20SHLMAIN/SHL-ProTeamScoring.html"; 
 
 	public static void main(String[] args) throws IOException {
 		print("Fetching %s...", s22url);
 		Document doc = Jsoup.connect(s22url).get();
-		Elements tstats = doc.select("pre");
+		Elements table = doc.select("table[class=basictablesorter]");
 		print("Parsing Skater data");
-		parseData(tstats);
+		parseNewData(table);
 	}
 
 	private static void print(String msg, Object... args) {
@@ -54,9 +54,9 @@ public class SkaterParser {
 		}
 		writer.close();
 	}
-	
+
 	private static void exportStats(List<Skater> list) throws IOException {
-		
+
 		String name;
 		Integer g,a,p,h,sb;
 		Skater sk;
@@ -77,18 +77,18 @@ public class SkaterParser {
 		writer.close();
 	}
 
-	private static LinkedHashMap sortMap(Map<String, Double> map) {
-		List mapKeys = new ArrayList(map.keySet());
-		List mapVals = new ArrayList(map.values());
+	private static LinkedHashMap<String, Double> sortMap(Map<String, Double> map) {
+		List<String> mapKeys = new ArrayList<String>(map.keySet());
+		List<Double> mapVals = new ArrayList<Double>(map.values());
 		Collections.sort(mapVals, Collections.reverseOrder());
 		Collections.sort(mapKeys,Collections.reverseOrder());
 
-		LinkedHashMap sortedmap = new LinkedHashMap();
+		LinkedHashMap<String, Double> sortedmap = new LinkedHashMap<String, Double>();
 
-		Iterator valueIt = mapVals.iterator();
+		Iterator<Double> valueIt = mapVals.iterator();
 		while (valueIt.hasNext()) {
 			Object val = valueIt.next();
-			Iterator keyIt = mapKeys.iterator();
+			Iterator<String> keyIt = mapKeys.iterator();
 
 			while(keyIt.hasNext()) {
 				Object key = keyIt.next();
@@ -106,6 +106,48 @@ public class SkaterParser {
 		return sortedmap;
 
 	}
+
+	private static void parseNewData(Elements stats) {
+		Map<String,Double> players  = new HashMap<String, Double>();
+		List<Skater> skaters = new ArrayList<Skater>();
+		for(int i=0;i<stats.size();i++) {
+			if(i%3==0) { 
+				Element table = stats.get(i);
+				Elements rows = table.select("tr");
+				String name ;
+				int g,a,p,h,b;
+
+				for(int j=0;j<rows.size();j++) {
+					Element row = rows.get(j);
+					Elements cols = row.select("td");
+
+					if(!cols.isEmpty()) {
+						name = cols.get(0).text();
+						g = Integer.parseInt(cols.get(4).text());
+						a = Integer.parseInt(cols.get(5).text());
+						p = Integer.parseInt(cols.get(6).text());
+						h = Integer.parseInt(cols.get(10).text());
+						b = Integer.parseInt(cols.get(16).text());
+						Skater player = new Skater(name, g, a, p, h, b);
+						skaters.add(player);
+						players.put(player.getName(), player.getFantasyValue());
+					}
+
+				}
+			}
+		}
+		try {
+			writeFile(sortMap(players));
+			print("Exported to skater.txt");
+			exportStats(skaters);
+			print("Exported to SKstats.txt");
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+
+	}
+
 	private static void parseData(Elements stats) {
 		Map<String,Double> players  = new HashMap<String, Double>();
 		List<Skater> skaters = new ArrayList<Skater>();

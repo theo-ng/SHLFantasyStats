@@ -12,7 +12,7 @@ public class Goalie extends Player{
 		wins = w;
 		shutouts = so;
 		saves = sa - ga;
-		fantasyValue = 2*wins+10*shutouts+0.15*saves;
+		fantasyValue = 3*wins+10*shutouts+0.15*saves;
 	}
 	
 	public String getName() {

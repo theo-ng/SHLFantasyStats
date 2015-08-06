@@ -1,220 +1,234 @@
-Chuck Goody: 222.2
-Willie Weber: 215.8
-Darian Scherbluk: 200.4
-Bojo Biscuit: 197.4
-Barney Stinson: 196.3
-Maxim Horvat: 190.2
-Roy Razin: 187.5
-Esa Anrikkanen: 185.2
-Magnus Jakobsen: 179.1
-Jhonas Skarsgaard: 174.9
-Fredrik Wastlund: 172.7
-Chuck Winnfield: 171.7
-Steven Jalopski: 170.2
-Daniel Merica: 166.5
-Chris Partlow: 166.3
-Drew Myers: 164.2
-Tyler Stropko: 164.1
-Vidrik Onoprienko: 161.9
-Ondrej Ravchitikov: 159.9
-Brian Morley: 158.5
-Azriel Stryfe: 157.7
-Mikko Koskinen: 152.7
-Friedrich Müller: 152
-Jed Lloren: 151.6
-Adam Kylrad: 151.4
-Chester Cunningham: 148.5
-Brandon Cant: 147.4
-Sachimo Zoidberg: 146.9
-Emils Vilmenietis: 146.7
-Valterri Bottas: 146.6
-Zallerras Szlerchek: 146.5
-Yousuf Scherbluk: 144.8
-Carter O'Callahan: 144.8
-Kristian Eriksson: 144.7
-Benjamin Reid: 144.7
-Magnus Vikstrand: 144.2
-Krišs Labsv?rds: 143.4
-David Winter: 140.6
-Joe McKeil: 140.2
-Armin Brovalchuk: 140
-Vladimir Bodnar: 139.8
-Jonathan Kane: 139.4
-Matthew Buchesner: 138.8
-Thomas King: 138
-Roberts Birkavs: 137.3
-Tom Sawyer: 136.5
-Terry Bullis: 134.9
-Jackson Rogers-Tanaka: 134.6
-Mr. Feeny: 132.1
-Nathan Russell: 131.6
-Pedro Sarantez: 130.9
-Niklas Stryker: 130.8
-Nicholas Pedersen: 130.7
-Riko Muerto: 130.3
-Alonzo Garbanzo: 130.3
-Alexander Kjærberg: 129.2
-Shawn Velevra: 128.9
-Alexandre Daigle: 128.3
-Ivo Willems: 127.8
-Walter White: 127.6
-Jarkko Kallestrom: 126.7
-Marlo Stanfield: 126.4
-Tommy Creller: 125.4
-Martins Daugavins: 125.3
-Kyle Keenan: 125.3
-Zanis Zarins: 123.8
-Gabriel DuJardin: 123.6
-Rembrandt Q. Einstein: 123.3
-Miles Berger: 122.7
-Brandon Donini: 122.3
-Mark Longford: 122
-Ryan Sullivan: 121.5
-Jim Lahey: 121.2
-Jordan Hall: 120.9
-Vsevolod Nikitin: 120.6
-Blake Sherrill: 120.4
-Logan Valentine: 120.1
-Theo Kane: 120
-Aviad Ratzon: 119.1
-Mariusz Kwik: 118.5
-Arthur Grosberg: 118.3
-Jackson Hauke: 117.1
-Kaspars Tsizling: 116.6
-Ken Spiak: 115.2
-Tomas Pylon: 114.7
-Claude Perron: 113.7
-Chris McZehrl: 113
-Oliver Pettyfer: 111
-Colt Constantine: 109.7
-Bubba Nuck: 109.6
-Lionel Byrde: 107.6
-John Heimer-Schmidt: 105.8
-Viktor Svensson: 105.5
-Jed Hackert: 105.5
-Chara Brojled: 104.8
-Nicholas Flamel: 104.7
-Griffin Simons: 101
-Chico Salmon: 98.1
-Niklas Wikstrom: 98
-Thor Ludvigsen: 97.6
-John Luther: 97.4
-Jamers Both: 97
-Jamie Hawkins: 94.1
-Rider Clitsome: 93.9
-Joolyan Marszal: 93.9
-Franklin Trey: 91
-Rufus Reinhart: 90.4
-Jaime Hill: 89.9
-Patrik Šatan: 89.4
-Bronsen Zerchai: 89.1
-Oferyn Martell: 87.6
-Etienne Modano: 86.2
-Toki Wartooth: 85.6
-Phil Schenn: 83.1
-Moosejaw Boudreau: 82.4
-Liam Kinsler: 82.1
-Adrian Thomaz: 82
-Kodiak Clark: 81.1
-Clyde "Shadow" Arrowny: 79.5
-Xavier Gauthier: 79.3
-Peter Parker: 79.3
-Drizzy Drake: 79.2
-Yuri Boyka: 78.1
-Pierre-Luc Laflamme: 77.1
-Edge Ochocinco: 77
-Gil Lemar: 76.1
-Dean Colt: 74.5
-John Langabeer: 74.3
-Mikhail Klando: 73.5
-Jorma Ruutu: 73.4
-Elyk: 73.2
-Sam Samsinov: 73.1
-Alexey Kovalenko: 72.1
-Mikhail Krivokrasov: 69.8
-Giovanni Mortallaro II: 69.5
-Max McDonald: 69
-Jigsaw McGraw: 67.9
-Bryson Thomaz: 67.9
-Chernika Banananov: 65.3
-Clay Parker: 64
-Ales Smirnov: 64
-Grigori Pajari: 60.2
-Sean Leonidas: 58.2
-Belial: 57.7
-Waldo Cezar Jr.: 57.4
-Reinis Lillais: 56.1
-Jordan McArthur: 56
-Chris Johnson: 54.8
-Jacob Cunningham: 53.2
-Logan Court: 52.9
-Steve Linkos: 50.4
-Charlie Schenn: 50.3
-Charlie Winchester: 50.2
-Brandon Pomery: 49
-Simeon Mars III: 47.6
-Alens Paurs: 43.9
-Cameron Urbowicz: 43.7
-Anton Gustafsson: 43.7
-Christophe Bourgeois: 43.3
-Sterling Knight: 42.2
-David Webb: 38.6
-Pavel Bursyuk: 33.9
-Snowden Manning: 33.1
-Nils Wahlstrom: 32.8
-Thomas Anderson: 31.9
-Bryan Whisonant: 30.8
-Merit Csonka: 29.7
-Rehn Miller: 28.4
-Shawn Swerin: 26.3
-John Anderson: 24.4
-Vuro Vlaters: 24.3
-Evgeny Semin: 20.2
-Shinji Kudryashov: 20
-Zach Morgan: 19.8
-Marek Vysko?: 18.3
-Sasha Alexei Smirnov: 17.2
-Chris Serpe: 16.6
-Turd Ferguson Jr: 16.1
-Jordan Cousins: 13.4
-Danny Sexbang: 12.7
-Sandijs Sili?š: 11.7
-Bradley Wingels: 11.5
-Axel Reid: 9.6
-Matej Stransky: 8.4
-Brendan Gibbon: 6.3
-Volker Bayer-Holtby: 4.2
-Keith Trubachev: 2.8
-Ryan Raycroft: 1.9
-Lars Slinger: 1.9
-Nathan Wong: 0.8
-Craig Iginla: 0.8
-George Costanza: 0.4
-Computer Iveson: 0.4
+Taylor McDavid: 324.4
+Shawn Velevra: 320.1
+Brian Morley: 319.6
+Chico Salmon: 305.4
+Bojo Biscuit: 304.4
+Alonzo Garbanzo: 303.9
+Mikko Koskinen: 301.3
+Chris Partlow: 300.2
+Darian Scherbluk: 296.9
+Jim Lahey: 293.4
+Barney Stinson: 288.4
+Benjamin Reid: 284.8
+Kaspars Tsizling: 282.1
+Sachimo Zoidberg: 281.1
+Steven Jalopski: 276.8
+Maxim Horvat: 265.2
+Valterri Bottas: 260.8
+Willie Weber: 254
+Logan Valentine: 253.8
+Vsevolod Nikitin: 253.1
+Oliver Pettyfer: 249.1
+Roy Razin: 248.3
+Chuck Goody: 246
+Griffin Simons: 245.9
+Tommy Creller: 241.6
+Jed Lloren: 240.7
+Lionel Byrde: 240.2
+Tom Sawyer: 238.3
+Emils Vilmenietis: 237.4
+Mr. Feeny: 236.7
+Friedrich Müller: 236
+Riko Muerto: 235.9
+Fredrik Wastlund: 233.6
+Vidrik Onoprienko: 232.4
+Kristian Eriksson: 232.1
+Azriel Stryfe: 232.1
+Rembrandt Q. Einstein: 230.2
+Gabriel DuJardin: 228.4
+Drew Myers: 224.2
+Simon Palat: 224
+Matthew Buchesner: 224
+Jhonas Skarsgaard: 223.7
+Alexander Kjærberg: 222.6
+Esa Anrikkanen: 221.9
+Roberts Birkavs: 221
+Patrik Šatan: 220.6
+Niklas Stryker: 219.5
+Magnus Jakobsen: 216.5
+Jackson Rogers-Tanaka: 215.6
+Viktor Svensson: 214.7
+Brandon Cant (TOT): 214.4
+Ondrej Ravchitikov: 213.4
+Bubba Nuck: 211.9
+Magnus Vikstrand: 211.4
+Zallerras Szlerchek: 209.8
+Nathan Russell: 209.1
+Arthur Grosberg: 208.6
+Daniel Merica: 208
+Zanis Zarins: 206.9
+Carter O'Callahan: 204.5
+Krišs Labsv?rds: 203.9
+Connor O'Reilly (R): 203.1
+Jigsaw McGraw: 202.7
+Miles Berger: 202.4
+Nicholas Pedersen: 200.9
+Blake Sherrill: 199.8
+Vladimir Bodnar: 199.2
+Lukas Johnson (R): 198.6
+Franklin Trey: 197.7
+Dean Colt: 195.8
+Martins Daugavins: 194.8
+Marlo Stanfield: 193.6
+Alexandre Daigle: 193.6
+Walter White: 193.2
+Bryson Thomaz: 191.1
+Ivo Willems: 190.4
+Adam Kylrad: 190.1
+Yuri Boyka: 189.6
+Liam Kinsler: 189.2
+Mark Longford: 185.1
+Peter Parker: 184.9
+Chara Brojled: 184.8
+Tomas Pylon: 184.4
+Aviad Ratzon: 184
+Theo Kane: 182.1
+Ken Spiak: 181.2
+Chester Cunningham: 176.5
+Claude Perron: 175.6
+Pedro Sarantez: 174.9
+Tyler Stropko: 174.7
+Adrian Thomaz: 173.9
+Niklas Wikstrom: 170.3
+Thomas King: 169
+David Winter: 168.1
+Chernika Banananov: 167.5
+Elyk: 166.9
+Belial: 161.3
+Kyle Keenan: 151.4
+Armin Brovalchuk: 151.3
+__Brandon Cant (NEW): 150.7
+Fernando Pergher (R): 150.6
+Rider Clitsome: 149.3
+Jamie Hawkins: 148.6
+Thor Ludvigsen: 148.5
+Sean Leonidas: 148
+Jackson Hauke: 145.5
+Nicholas Flamel: 145.3
+Jarkko Kallestrom: 144.4
+Moosejaw Boudreau: 142.5
+Jed Hackert: 138.6
+Michael J Caboose: 138.5
+Anton Gustafsson: 136.9
+Phil Schenn: 135.9
+Joolyan Marszal: 134.1
+Grigori Pajari: 133.5
+Jaime Hill: 133.4
+Big Manius (R): 129
+Clyde "Shadow" Arrowny: 128.1
+John Heimer-Schmidt: 124.7
+Sterling Knight: 124.5
+Ales Smirnov: 124.3
+Xavier Gauthier: 124.1
+Zach Morgan: 121.9
+Joe McKeil (TOT): 120.7
+Michael Boychuk (R): 119.2
+Steve Linkos: 116.9
+Schnitinfritz Jagr (R): 115.1
+Gil Lemar: 114.2
+Pierre-Luc Laflamme: 113.7
+Mikhail Krivokrasov: 113
+Ryan Sullivan: 112.6
+Simeon Mars III: 112
+Charlie Winchester: 111.6
+Jamers Both: 110.1
+Toki Wartooth: 109.5
+Jorma Ruutu: 108.6
+Bronsen Zerchai: 105
+David Benson (R): 101.4
+Alens Paurs: 99.9
+Drizzy Drake: 99.8
+Chris Johnson: 99.8
+Max McDonald: 98.1
+Hans Ponsen (R): 97.8
+Jonathan Kane: 94.5
+David Webb: 93.7
+Andrey Barbashev (R): 93.7
+John Luther: 92.8
+Merit Csonka: 88.9
+Martins Ziepins (R): 86.8
+Edge Ochocinco: 85.8
+Etienne Modano: 85.7
+Slappy McDoodle (R): 85.4
+Bryce Collins (R): 80.7
+Butch Buckley (R): 80.5
+Thomas Anderson: 77.3
+Terry Bullis: 75.3
+Yousuf Scherbluk: 74.2
+Christophe Bourgeois: 74
+Asbjørn Alexandersen (R): 73.8
+J?nis Kr?mi?š: 72.3
+Pavel Bursyuk: 71.7
+__Joe McKeil (SEA): 70.5
+Luka Zaitsev (R): 70.5
+Mariusz Kwik: 69.3
+Waldo Cezar Jr.: 68.8
+Brandon Pomery: 68.7
+Rufus Reinhart: 66.8
+__Brandon Cant (MIN): 63.7
+Sasha Alexei Smirnov: 58.8
+Evgeny Semin (TOT): 58.6
+Axel Reid: 58
+Vuro Vlaters (TOT): 57.6
+Cameron Urbowicz: 56.8
+John Langabeer: 53.9
+Keith Trubachev: 53.3
+__Joe McKeil (HAM): 50.2
+Nazar Nichushkin (R): 49.9
+Turd Ferguson jr: 48.9
+__Vuro Vlaters (HAM): 47.3
+Marek Vysko?: 46.3
+Tanner Carter (R): 45.4
+__Evgeny Semin (NEW): 39.4
+Keith Doughty: 37.9
+Snowden Manning: 36.2
+Jordan Cousins: 35.7
+Rehn Miller: 28.6
+__Evgeny Semin (MIN): 19.2
+Oferyn Martell: 11.7
+__Vuro Vlaters (SEA): 10.3
+The Carl Mountain: 10.2
+Jacob Cunningham: 9.9
+Mikhail Klando: 9.6
+Danny Sexbang: 8.4
+Brendan Gibbon: 6.2
+Vladimir Lindstrom (R): 6
+Bryan Whisonant: 5.5
+ZzJack's Robot Ramsey: 3
+Derek Underscore: 3
+Computer Praxia: 1.5
+Computer Gualterio: 1.5
+ZzJack's Robot Mr Brett: 0.4
+Kodiak Clark: 0.4
+Hermione Granger: 0.4
+Fife Gibbs: 0.4
+Computer Raghnall: 0.4
 Computer Gwenael: 0.4
-Computer Ashford: 0.4
-Shawn Kelly: 0
+Computer Bellamont: 0.4
+ZzJack's Robot Parm: 0
+Winston Windsor: 0
+Shinji Kudryashov: 0
 Rayan Pitaniya: 0
+Paska Jakaitis: 0
 OJ Simpson: 0
+Klaus Wagner: 0
 Kevin Marleau: 0
-J?nis Kr?mi?š: 0
+Kaapo Kekkonen: 0
 Jesse Jacek-Kix: 0
-Hermione Granger: 0
 Computer Targaryen: 0
+Computer Sweet Dee (R): 0
+Computer Stanislov: 0
 Computer Romero: 0
-Computer Ricky: 0
 Computer Ramsey: 0
-Computer Raghnall: 0
-Computer Praxia: 0
 Computer Mikaelsson: 0
 Computer Lorre: 0
+Computer Lieber: 0
 Computer Lexx: 0
 Computer LaFollett: 0
 Computer Katia: 0
 Computer Kane: 0
-Computer Hogan: 0
 Computer Fantastic: 0
-Computer Bellamont: 0
-Computer Alvarez: 0
+Computer Charlie: 0
+Computer Brett: 0
+Computer Ashford: 0
 Alexander Andrezjeck: 0
-Adam Johansson: 0
