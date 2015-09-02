@@ -1,24 +1,16 @@
-Mike Verminski: 3, 0, 135, 29.25
-Hunter Wong: 23, 1, 1239, 264.85
-Antero Pelkonen: 2, 0, 133, 25.95
-Jakub Aittokallio: 21, 2, 1064, 242.6
-Jakob Tanner: 27, 2, 1091, 264.65
-Gustav Grimm (R): 3, 1, 141, 40.15
-Erik Lundqvist: 1, 0, 152, 25.8
-Jackson Weekes: 30, 7, 1131, 329.65
-Eric White: 2, 0, 168, 31.2
-C.J. James: 24, 5, 1087, 285.05
-Ryan Winters: 2, 1, 135, 36.25
-Dymo Ranjan: 28, 1, 1028, 248.2
-Adam Demko (R): 3, 0, 140, 30
-Arton Laxk: 15, 3, 1179, 251.85
-Phil Osgoode: 3, 0, 166, 33.9
-Valdermorts Karlensons (R): 21, 2, 1203, 263.45
-Jonas Gustavo: 3, 1, 140, 40
-Jordin FourFour: 26, 2, 1160, 272
-Sergei Kozar: 1, 0, 168, 28.2
-Mark Harter: 24, 1, 1098, 246.7
-Colin Schmidt: 18, 1, 1126, 232.9
-Edwin Ask: 2, 1, 155, 39.25
-Rob Pressen: 4, 0, 162, 36.3
-Lauris Prikulis: 26, 3, 1165, 282.75
+Jamie Shetler: 6, 0, 269, 58.35
+Hunter Wong: 5, 0, 233, 49.95
+Jakub Aittokallio: 4, 0, 216, 44.4
+Jakob Tanner: 4, 0, 240, 48
+Erik Lundqvist: 1, 0, 29, 7.35
+Jackson Weekes: 4, 0, 240, 48
+C.J. James: 5, 0, 242, 51.3
+Jordin FourFour: 5, 0, 251, 52.65
+Arton Laxk: 4, 0, 284, 54.6
+Nikita Nevzorov (R): 2, 0, 302, 51.3
+Valdemorts Karlensons: 7, 0, 231, 55.65
+Dymo Ranjan: 2, 0, 78, 17.7
+Igor Ogorodnikov (R): 3, 1, 149, 41.35
+Mark Harter: 5, 1, 190, 53.5
+Colin Schmidt: 5, 0, 255, 53.25
+Lauris Prikulis: 6, 1, 252, 65.8

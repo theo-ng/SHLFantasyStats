@@ -21,12 +21,12 @@ import org.jsoup.select.Elements;
 
 public class SkaterParser {
 
-	private static String s22url = "https://dl.dropboxusercontent.com/u/34714712/S24%20-%20SHLMAIN/SHL-ProTeamScoring.html"; 
+	private static String s22url = "https://dl.dropboxusercontent.com/u/34714712/S25%20-%20SHL%20SMJHL%20MAIN/SHL-ProTeamScoring.html"; 
 
 	public static void main(String[] args) throws IOException {
 		print("Fetching %s...", s22url);
 		Document doc = Jsoup.connect(s22url).get();
-		Elements table = doc.select("table[class=basictablesorter]");
+		Elements table = doc.select("table[class=basictablesorter STHSScoring_PlayersTable1]");
 		print("Parsing Skater data");
 		parseNewData(table);
 	}
@@ -111,7 +111,7 @@ public class SkaterParser {
 		Map<String,Double> players  = new HashMap<String, Double>();
 		List<Skater> skaters = new ArrayList<Skater>();
 		for(int i=0;i<stats.size();i++) {
-			if(i%3==0) { 
+//			if(i%3==0) { 
 				Element table = stats.get(i);
 				Elements rows = table.select("tr");
 				String name ;
@@ -134,7 +134,7 @@ public class SkaterParser {
 					}
 
 				}
-			}
+//			}
 		}
 		try {
 			writeFile(sortMap(players));

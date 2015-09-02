@@ -1,234 +1,259 @@
-Roberts Birkavs: 16, 28, 44, 105, 10
-Steven Jalopski: 18, 22, 40, 122, 48
-Belial: 16, 20, 36, 27, 7
-Sachimo Zoidberg: 9, 26, 35, 144, 67
-Esa Anrikkanen: 16, 18, 34, 156, 17
-Jaime Hill: 9, 24, 33, 11, 8
-Martins Daugavins: 6, 26, 32, 37, 48
-Krišs Labsv?rds: 14, 17, 31, 46, 43
-Gil Lemar: 10, 15, 25, 33, 4
-Schnitinfritz Jagr (R): 7, 17, 24, 54, 5
-Merit Csonka: 8, 9, 17, 21, 9
-Fernando Pergher (R): 3, 14, 17, 69, 44
-Michael Boychuk (R): 1, 13, 14, 53, 36
-Ken Spiak: 3, 9, 12, 123, 60
-Bronsen Zerchai: 8, 3, 11, 110, 8
-Mikhail Klando: 1, 1, 2, 4, 0
-Oferyn Martell: 0, 1, 1, 18, 1
+Bryson Thomaz: 9, 6, 15, 35, 2
+Adrian Thomaz: 3, 10, 13, 13, 2
+Marlo Stanfield: 1, 10, 11, 10, 25
+Evgeny Semin: 3, 7, 10, 1, 0
+Reginald Howard (R): 5, 4, 9, 27, 2
+Ray Pejonis (R): 2, 6, 8, 7, 1
+Michael J Caboose: 2, 4, 6, 22, 15
+Mike Abell (R): 2, 3, 5, 2, 7
+J?nis Kr?mi?š: 3, 1, 4, 6, 3
+Toms Berkis (R): 1, 3, 4, 25, 10
+Robb Wind (R): 1, 2, 3, 2, 0
+Brandon Pomery: 0, 3, 3, 14, 14
+Miikka Granlund: 1, 1, 2, 13, 2
+Derek Underscore (R): 1, 1, 2, 16, 9
+John Langabeer: 0, 1, 1, 3, 2
+Yorgen Bartenberry: 0, 0, 0, 0, 0
+Paska Jakaitis: 0, 0, 0, 0, 0
+DJ Stanley: 0, 0, 0, 0, 0
+Thong Bonerstrom (R): 0, 0, 0, 0, 0
+Esa Anrikkanen: 7, 5, 12, 31, 2
+Gil Lemar: 6, 2, 8, 9, 1
+Sachimo Zoidberg: 3, 5, 8, 24, 14
+Alex Mack (R): 1, 7, 8, 0, 3
+Martins Daugavins: 0, 7, 7, 5, 6
+Krišs Labsv?rds: 1, 4, 5, 7, 14
+Steven Jalopski: 2, 2, 4, 20, 2
+Jaime Hill: 0, 4, 4, 0, 2
+Bronsen Zerchai: 2, 1, 3, 46, 7
+Michael Boychuk: 1, 2, 3, 13, 3
+Belial: 1, 1, 2, 2, 0
+Ken Spiak: 0, 2, 2, 21, 12
+Fernando Pergher: 1, 0, 1, 18, 8
+Schnitinfritz Jagr: 0, 1, 1, 2, 4
+VLAD McZehrl (R): 0, 0, 0, 1, 1
+Oferyn Martell: 0, 0, 0, 21, 0
 Computer Ashford: 0, 0, 0, 0, 0
 ZzJack's Robot Parm: 0, 0, 0, 0, 0
-Miles Berger: 18, 18, 36, 101, 12
-Kyle Keenan: 9, 27, 36, 11, 14
-Theo Kane: 18, 17, 35, 54, 13
-Mark Longford: 16, 19, 35, 79, 11
-Friedrich Müller: 10, 25, 35, 120, 42
-Magnus Vikstrand: 6, 28, 34, 26, 58
-Aviad Ratzon: 16, 17, 33, 110, 6
-Jackson Rogers-Tanaka: 5, 27, 32, 79, 52
-Armin Brovalchuk: 13, 18, 31, 17, 17
-Matthew Buchesner: 3, 18, 21, 155, 62
-Yousuf Scherbluk: 6, 10, 16, 28, 2
-Jonathan Kane: 7, 8, 15, 85, 1
-Alens Paurs: 1, 13, 14, 16, 33
-Sasha Alexei Smirnov: 7, 4, 11, 7, 6
-Hans Ponsen (R): 0, 6, 6, 72, 34
-Jacob Cunningham: 1, 1, 2, 1, 1
-Computer Kane: 0, 0, 0, 0, 0
-Alexander Andrezjeck: 0, 0, 0, 0, 0
-Jesse Jacek-Kix: 0, 0, 0, 0, 0
-Griffin Simons: 24, 31, 55, 11, 19
-Riko Muerto: 22, 22, 44, 86, 17
-Arthur Grosberg: 18, 21, 39, 124, 4
-Franklin Trey: 16, 15, 31, 118, 17
-Rider Clitsome: 14, 17, 31, 37, 9
-Gabriel DuJardin: 4, 23, 27, 116, 62
-Jackson Hauke: 8, 16, 24, 125, 5
-Bubba Nuck: 7, 15, 22, 116, 57
-David Webb: 6, 14, 20, 13, 11
-Michael J Caboose: 3, 15, 18, 65, 35
-Claude Perron: 7, 10, 17, 29, 66
-Tyler Stropko: 2, 14, 16, 78, 61
-Simeon Mars III: 0, 15, 15, 40, 34
-J?nis Kr?mi?š: 5, 9, 14, 17, 9
-Vuro Vlaters (TOT): 3, 11, 14, 9, 4
-__Vuro Vlaters (SEA): 0, 2, 2, 7, 1
-__Vuro Vlaters (HAM): 3, 9, 12, 2, 3
-Computer Romero: 0, 0, 0, 0, 0
-Computer Katia: 0, 0, 0, 0, 0
+Michael Burch: 0, 0, 0, 0, 0
+Kyle Keenan: 4, 3, 7, 1, 2
+Miles Berger: 2, 4, 6, 21, 2
+Aviad Ratzon: 2, 3, 5, 22, 1
+Theo Kane: 2, 3, 5, 6, 2
+Mark Longford: 1, 4, 5, 8, 0
+Magnus Vikstrand: 2, 2, 4, 10, 15
+Friedrich Müller: 2, 2, 4, 18, 16
+Jackson Rogers-Tanaka: 1, 3, 4, 12, 13
+Gabriel DuJardin: 1, 3, 4, 27, 8
+Adam Abodobe: 0, 3, 3, 8, 0
+Christophe Bourgeois: 2, 0, 2, 4, 2
+Sasha Alexei Smirnov: 0, 1, 1, 6, 1
+Hans Ponsen: 0, 1, 1, 6, 13
+Grigori Pajari: 0, 1, 1, 31, 2
+Richard D'amour: 0, 1, 1, 13, 4
+Rick Chleb: 0, 0, 0, 0, 0
+Hunter Bob (R): 0, 0, 0, 0, 0
+Fredrik Zavstrom (R): 0, 0, 0, 1, 0
+Chara Brojled: 4, 5, 9, 12, 1
+Rider Clitsome: 4, 4, 8, 2, 0
+Riko Muerto: 2, 5, 7, 26, 1
+Griffin Simons: 2, 4, 6, 1, 3
+Jackson Hauke: 2, 4, 6, 41, 1
+Zanis Zarins: 3, 2, 5, 30, 6
+David Webb: 3, 2, 5, 4, 0
+Arthur Grosberg: 0, 5, 5, 7, 1
+Bubba Nuck: 0, 5, 5, 30, 10
+Vuro Vlaters: 4, 0, 4, 2, 0
+Franklin Trey: 0, 2, 2, 12, 0
+Claude Perron: 0, 2, 2, 8, 5
+Patrick Brumm (R): 0, 2, 2, 3, 13
+Simeon Mars III: 0, 1, 1, 10, 3
+Brandon Girard (R): 0, 1, 1, 12, 9
+ZzJack's Robot Romero: 0, 0, 0, 0, 0
+ZzJack's Robot Katya: 0, 0, 0, 0, 0
 Kevin Marleau: 0, 0, 0, 0, 0
-Brian Morley: 29, 25, 54, 189, 16
-Nicholas Pedersen: 18, 29, 47, 11, 13
-Yuri Boyka: 13, 34, 47, 34, 6
-Valterri Bottas: 6, 41, 47, 67, 54
-Adrian Thomaz: 9, 30, 39, 41, 15
-Jhonas Skarsgaard: 16, 19, 35, 168, 13
-Tomas Pylon: 9, 19, 28, 11, 52
-Fredrik Wastlund: 12, 13, 25, 89, 66
-Chris Johnson: 9, 14, 23, 2, 8
-Etienne Modano: 6, 16, 22, 8, 3
-Jigsaw McGraw: 5, 9, 14, 148, 61
-Jorma Ruutu: 6, 7, 13, 114, 8
-Tanner Carter (R): 6, 2, 8, 16, 2
-Mariusz Kwik: 0, 8, 8, 27, 23
-Moosejaw Boudreau: 3, 4, 7, 90, 53
-Danny Sexbang: 0, 1, 1, 6, 2
-Shinji Kudryashov: 0, 0, 0, 0, 0
+Nicholas Pedersen: 6, 5, 11, 3, 5
+Jhonas Skarsgaard: 5, 6, 11, 27, 0
+Valterri Bottas: 1, 10, 11, 12, 14
+Yuri Boyka: 7, 3, 10, 17, 1
+Chris Johnson: 3, 6, 9, 0, 0
+Jigsaw McGraw: 3, 5, 8, 20, 11
+Fredrik Wastlund: 2, 6, 8, 28, 10
+Tomas Pylon: 0, 6, 6, 2, 17
+Tanner Carter: 1, 3, 4, 3, 1
+Brian Morley: 1, 3, 4, 17, 2
+Jorma Ruutu: 1, 1, 2, 21, 1
+Etienne Modano: 1, 1, 2, 3, 0
+Danny Sexbang: 1, 0, 1, 3, 0
+Kaapo Kekkonen (R): 1, 0, 1, 6, 1
+Moosejaw Boudreau: 0, 1, 1, 19, 9
+Mariusz Kwik: 0, 1, 1, 8, 8
+Shinji Kudryashov: 0, 0, 0, 2, 0
 Rayan Pitaniya: 0, 0, 0, 0, 0
-Computer Lieber: 0, 0, 0, 0, 0
-Kaapo Kekkonen: 0, 0, 0, 0, 0
-Tommy Creller: 18, 29, 47, 124, 10
-Barney Stinson: 8, 32, 40, 156, 60
-Roy Razin: 12, 27, 39, 2, 71
-Daniel Merica: 16, 21, 37, 95, 18
-Jamie Hawkins: 15, 19, 34, 19, 6
-Chuck Goody: 5, 24, 29, 140, 62
-Thor Ludvigsen: 9, 18, 27, 120, 1
-Simon Palat: 6, 21, 27, 35, 78
-Mikhail Krivokrasov: 14, 8, 22, 10, 10
-Zach Morgan: 11, 11, 22, 66, 5
-Drizzy Drake: 3, 11, 14, 2, 34
-Thomas Anderson: 5, 6, 11, 67, 5
-Edge Ochocinco: 7, 3, 10, 82, 6
-Clyde "Shadow" Arrowny: 2, 7, 9, 119, 33
-Bryan Whisonant: 0, 0, 0, 10, 1
-Computer Stanislov: 0, 0, 0, 0, 0
-Computer Brett: 0, 0, 0, 0, 0
-Computer Gualterio: 0, 0, 0, 0, 1
-Chico Salmon: 23, 36, 59, 131, 20
-Niklas Stryker: 24, 22, 46, 5, 21
-Alonzo Garbanzo: 5, 37, 42, 161, 69
-Tom Sawyer: 21, 20, 41, 157, 7
-Pedro Sarantez: 17, 23, 40, 26, 7
-Magnus Jakobsen: 13, 23, 36, 180, 7
-Lionel Byrde: 6, 30, 36, 53, 66
-Mr. Feeny: 9, 26, 35, 63, 59
-Chernika Banananov: 18, 15, 33, 70, 3
-Jarkko Kallestrom: 12, 19, 31, 31, 10
-Brandon Cant (TOT): 5, 21, 26, 61, 68
-__Brandon Cant (NEW): 5, 10, 15, 48, 51
-__Brandon Cant (MIN): 0, 11, 11, 13, 17
-Walter White: 6, 14, 20, 93, 56
-Rufus Reinhart: 5, 7, 12, 7, 12
-Ryan Sullivan: 1, 8, 9, 74, 36
-Paska Jakaitis: 0, 0, 0, 0, 0
+ZzJack's Robot Lieber: 0, 0, 0, 0, 0
+Daniel Merica: 3, 8, 11, 13, 3
+Tommy Creller: 2, 7, 9, 14, 4
+Roy Razin: 4, 4, 8, 0, 17
+Sterling Knight: 3, 5, 8, 20, 4
+Kaspars Tsizling: 1, 7, 8, 46, 14
+Jamie Hawkins: 4, 1, 5, 4, 2
+Volker Bayer-Holtby: 1, 3, 4, 4, 10
+John Heimer-Schmidt: 0, 4, 4, 2, 4
+Edge Ochocinco: 3, 0, 3, 6, 1
+Xavier Gauthier: 2, 1, 3, 32, 17
+Zach Morgan: 1, 2, 3, 20, 1
+Thor Ludvigsen: 0, 2, 2, 16, 1
+ZzJack's Robot Hogan: 0, 1, 1, 0, 1
+ZzJack's Robot Hart: 0, 0, 0, 0, 0
+ZzJack's Robot Schuhawk: 0, 0, 0, 0, 0
+ZzJack's Robot Stanislov: 0, 0, 0, 0, 0
+ZzJack's Robot Brett: 0, 0, 0, 0, 0
+Computer Gualterio: 0, 0, 0, 1, 1
+Alonzo Garbanzo: 4, 7, 11, 22, 10
+Brandon Cant: 1, 10, 11, 3, 11
+Jarkko Kallestrom: 4, 6, 10, 5, 4
+Walter White: 4, 6, 10, 29, 15
+Magnus Jakobsen: 2, 8, 10, 25, 4
+Lionel Byrde: 6, 3, 9, 11, 6
+Pedro Sarantez: 3, 6, 9, 9, 1
+Tom Sawyer: 2, 7, 9, 23, 0
+Mr. Feeny: 3, 5, 8, 21, 10
+Chernika Banananov: 2, 6, 8, 26, 1
+Jonathan Kane: 2, 1, 3, 14, 0
+Rufus Reinhart: 1, 0, 1, 0, 1
+ZzJack's Robot Lorre: 0, 0, 0, 0, 0
+ZzJack's Robot Milan: 0, 0, 0, 0, 0
+ZzJack's Robot MacLean: 0, 0, 0, 4, 1
 ZzJack's Robot Mr Brett: 0, 0, 0, 1, 0
-Computer Lorre: 0, 0, 0, 0, 0
 Computer Bellamont: 0, 0, 0, 1, 0
 Winston Windsor: 0, 0, 0, 0, 0
-Benjamin Reid: 11, 29, 40, 87, 72
-Blake Sherrill: 21, 17, 38, 57, 14
-Dean Colt: 11, 26, 37, 112, 12
-Niklas Wikstrom: 19, 17, 36, 27, 9
-Nathan Russell: 14, 22, 36, 134, 13
-Kaspars Tsizling: 6, 23, 29, 184, 73
-Max McDonald: 9, 11, 20, 39, 3
-Connor O'Reilly (R): 2, 18, 20, 104, 65
-Charlie Winchester: 0, 13, 13, 24, 42
-Evgeny Semin (TOT): 6, 5, 11, 19, 4
-__Evgeny Semin (MIN): 2, 1, 3, 8, 2
-__Evgeny Semin (NEW): 4, 4, 8, 11, 2
-Marek Vysko?: 4, 6, 10, 17, 1
-Keith Trubachev: 5, 3, 8, 37, 3
-Butch Buckley (R): 3, 5, 8, 100, 7
-Axel Reid: 4, 2, 6, 65, 4
-Keith Doughty: 1, 3, 4, 11, 13
-Jordan Cousins: 0, 2, 2, 33, 11
-ZzJack's Robot Ramsey: 0, 1, 1, 0, 0
+Nathan Russell: 5, 6, 11, 23, 5
+Dean Colt: 4, 6, 10, 22, 3
+Barney Stinson: 2, 8, 10, 34, 15
+Niklas Wikstrom: 5, 3, 8, 8, 4
+Benjamin Reid: 1, 6, 7, 22, 15
+Blake Sherrill: 3, 2, 5, 20, 3
+Charlie Winchester: 1, 3, 4, 4, 8
+Connor O'Reilly: 1, 3, 4, 27, 25
+Marek Vysko?: 2, 1, 3, 1, 1
+Zack Hoover (R): 1, 2, 3, 1, 0
+Brian O'Rourke: 0, 3, 3, 7, 2
+Sandijs Sili?š: 0, 2, 2, 19, 7
+Butch Buckley: 0, 2, 2, 23, 0
+Waldo Cezar Jr.: 0, 1, 1, 5, 7
+Keith Trubachev: 0, 0, 0, 7, 1
 Computer Targaryen: 0, 0, 0, 0, 0
-Computer Ramsey: 0, 0, 0, 0, 0
-Computer Raghnall: 0, 0, 0, 1, 0
-Chara Brojled: 17, 26, 43, 32, 6
-Mikko Koskinen: 9, 31, 40, 97, 83
-David Winter: 13, 24, 37, 29, 13
-Adam Kylrad: 13, 23, 36, 99, 11
-Carter O'Callahan: 13, 22, 35, 150, 9
-Vsevolod Nikitin: 9, 20, 29, 104, 71
-Nicholas Flamel: 13, 15, 28, 47, 11
-Thomas King: 10, 16, 26, 80, 26
-Sean Leonidas: 11, 11, 22, 135, 4
-Vladimir Bodnar: 3, 17, 20, 93, 64
-Joe McKeil (TOT): 7, 9, 16, 128, 5
-__Joe McKeil (HAM): 2, 4, 6, 63, 2
-__Joe McKeil (SEA): 5, 5, 10, 65, 3
-Pavel Bursyuk: 6, 10, 16, 3, 7
-Cameron Urbowicz: 7, 5, 12, 2, 4
-Peter Parker: 2, 10, 12, 66, 79
-Martins Ziepins (R): 1, 11, 12, 17, 28
-Snowden Manning: 3, 3, 6, 23, 2
-Brandon Pomery: 3, 3, 6, 48, 17
-Rehn Miller: 3, 1, 4, 4, 6
+ZzJack's Robot Ramsey: 0, 0, 0, 0, 0
+Computer Raghnall: 0, 0, 0, 0, 0
+Colin Wood: 0, 0, 0, 0, 0
+Chico Salmon: 7, 10, 17, 27, 7
+Armin Brovalchuk: 4, 6, 10, 1, 6
+Pal Vikingstod (R): 1, 9, 10, 36, 10
+Yousuf Scherbluk: 4, 5, 9, 19, 3
+Drizzy Drake: 3, 5, 8, 22, 22
+Thomas Anderson: 2, 5, 7, 23, 3
+Buster Killington (R): 2, 5, 7, 24, 0
+Kodiak Clark: 4, 1, 5, 14, 17
+Nikolaus Scholz (R): 0, 5, 5, 3, 4
+Rehn Miller: 2, 1, 3, 1, 1
+Mikhail Klando: 1, 2, 3, 26, 0
+Max McDonald: 1, 1, 2, 7, 0
+Alens Paurs: 0, 2, 2, 18, 15
+ZzJack's Robot Mikaelsson: 0, 0, 0, 0, 0
+ZzJack's Robot Savard: 0, 0, 0, 0, 0
+ZzJack's Robot Ryan: 0, 0, 0, 4, 0
+Sparks Lightning: 0, 0, 0, 0, 0
+Matt Veenstra: 0, 0, 0, 2, 0
+Adam Kylrad: 5, 6, 11, 15, 7
+Thomas King: 2, 6, 8, 7, 10
+Sean Leonidas: 2, 6, 8, 20, 3
+Joe McKeil: 1, 7, 8, 15, 4
+David Winter: 4, 2, 6, 0, 0
+Vsevolod Nikitin: 2, 4, 6, 25, 14
+Mikko Koskinen: 2, 3, 5, 23, 12
+Cameron Urbowicz: 2, 3, 5, 5, 1
+Carter O'Callahan: 1, 4, 5, 42, 0
+Martins Ziepins: 1, 3, 4, 2, 4
+Nicholas Flamel: 2, 1, 3, 8, 6
+Pavel Bursyuk: 1, 2, 3, 4, 2
+Jack Burton: 1, 1, 2, 20, 12
+Snowden Manning: 1, 0, 1, 6, 0
+Evandrus Jesster: 0, 0, 0, 0, 0
+Peter Parker: 0, 0, 0, 9, 3
+Vladimir Bodnar: 0, 0, 0, 15, 9
 OJ Simpson: 0, 0, 0, 0, 0
-Maxim Horvat: 23, 34, 57, 53, 18
-Oliver Pettyfer: 24, 27, 51, 79, 11
-Liam Kinsler: 12, 35, 47, 23, 10
-Shawn Velevra: 17, 28, 45, 89, 77
-Chris Partlow: 11, 32, 43, 118, 68
-Jim Lahey: 12, 22, 34, 141, 74
-Bryson Thomaz: 12, 21, 33, 99, 19
-Logan Valentine: 6, 26, 32, 72, 78
-Anton Gustafsson: 12, 19, 31, 16, 9
-Alexandre Daigle: 13, 17, 30, 149, 12
-Sterling Knight: 11, 12, 23, 50, 9
-Asbjørn Alexandersen (R): 6, 11, 17, 12, 4
-Xavier Gauthier: 5, 7, 12, 94, 27
-Derek Underscore: 0, 1, 1, 0, 0
-The Carl Mountain: 0, 1, 1, 3, 4
-Computer Charlie: 0, 0, 0, 0, 0
-Hermione Granger: 0, 0, 0, 1, 0
-Vladimir Lindstrom (R): 0, 0, 0, 0, 4
-Brendan Gibbon: 0, 0, 0, 8, 2
-Darian Scherbluk: 12, 39, 51, 86, 57
-Kristian Eriksson: 19, 22, 41, 129, 13
-Azriel Stryfe: 10, 27, 37, 84, 45
-Chester Cunningham: 11, 23, 34, 105, 7
-Alexander Kjærberg: 12, 21, 33, 234, 4
-Phil Schenn: 15, 13, 28, 6, 13
-Willie Weber: 6, 21, 27, 170, 62
-Pierre-Luc Laflamme: 11, 15, 26, 8, 7
-Lukas Johnson (R): 8, 14, 22, 59, 62
-David Benson (R): 9, 12, 21, 6, 12
-Andrey Barbashev (R): 4, 12, 16, 53, 11
-Luka Zaitsev (R): 7, 5, 12, 40, 3
-Nazar Nichushkin (R): 5, 2, 7, 36, 3
-Toki Wartooth: 0, 7, 7, 45, 47
-John Luther: 0, 4, 4, 67, 36
-Computer Fantastic: 0, 0, 0, 0, 0
-Computer Gwenael: 0, 0, 0, 1, 0
-Computer Praxia: 0, 0, 0, 0, 1
-Jed Lloren: 16, 29, 45, 143, 11
-Zallerras Szlerchek: 12, 30, 42, 97, 14
-Ivo Willems: 21, 18, 39, 26, 14
-Bojo Biscuit: 7, 30, 37, 186, 70
-Ales Smirnov: 7, 18, 25, 47, 11
-John Heimer-Schmidt: 12, 12, 24, 38, 9
-Viktor Svensson: 5, 19, 24, 88, 65
-Grigori Pajari: 10, 10, 20, 115, 5
-Marlo Stanfield: 8, 12, 20, 24, 72
-Christophe Bourgeois: 8, 8, 16, 10, 4
-John Langabeer: 3, 7, 10, 11, 9
-Joolyan Marszal: 3, 6, 9, 69, 49
-Slappy McDoodle (R): 6, 2, 8, 101, 6
-Waldo Cezar Jr.: 0, 6, 6, 37, 24
-Turd Ferguson jr: 0, 1, 1, 36, 21
-Computer Sweet Dee (R): 0, 0, 0, 0, 0
-Klaus Wagner: 0, 0, 0, 0, 0
-Fife Gibbs: 0, 0, 0, 1, 0
-Taylor McDavid: 17, 43, 60, 201, 20
-Vidrik Onoprienko: 22, 26, 48, 51, 16
-Patrik Šatan: 20, 23, 43, 69, 16
-Emils Vilmenietis: 21, 21, 42, 136, 10
-Elyk: 18, 23, 41, 1, 5
-Rembrandt Q. Einstein: 9, 24, 33, 43, 64
-Ondrej Ravchitikov: 9, 22, 31, 16, 64
-Jed Hackert: 9, 16, 25, 9, 28
-Drew Myers: 3, 22, 25, 133, 60
-Jamers Both: 8, 13, 21, 44, 9
-Steve Linkos: 10, 9, 19, 36, 17
-Bryce Collins (R): 4, 13, 17, 43, 3
-Terry Bullis: 5, 11, 16, 32, 3
-Zanis Zarins: 2, 12, 14, 166, 63
-Big Manius (R): 0, 8, 8, 105, 42
-Kodiak Clark: 0, 0, 0, 1, 0
+Ryan King: 0, 0, 0, 0, 0
+John Matthews (R): 0, 0, 0, 0, 0
+Liam Kinsler: 4, 8, 12, 4, 2
+Niklas Stryker: 4, 7, 11, 0, 4
+Shawn Velevra: 2, 6, 8, 12, 13
+Chris Partlow: 2, 4, 6, 24, 9
+Mikhail Krivokrasov: 3, 2, 5, 3, 0
+Maxim Horvat: 2, 3, 5, 24, 2
+Alexandre Daigle: 3, 1, 4, 42, 3
+Chuck Goody: 1, 3, 4, 21, 16
+Vladimir Lidstrom (R): 1, 3, 4, 15, 12
+Simon Palat: 1, 1, 2, 12, 3
+Asbjørn Alexandersen: 0, 2, 2, 1, 0
+Travis Kudleychuk (R): 1, 0, 1, 5, 1
+The Carl Mountain: 0, 0, 0, 0, 1
+Computer Charlie: 0, 0, 0, 1, 0
+Computer Stark: 0, 0, 0, 0, 0
+Hermione Granger: 0, 0, 0, 0, 0
+Brendan Gibbon: 0, 0, 0, 2, 0
+Geoffrey Allen (R): 0, 0, 0, 2, 0
+Eichel Jordan: 0, 0, 0, 0, 0
+Kristian Eriksson: 6, 5, 11, 26, 4
+Chester Cunningham: 3, 7, 10, 24, 2
+Luka Zaitsev: 4, 4, 8, 1, 0
+Willie Weber: 0, 8, 8, 16, 10
+Pierre-Luc Laflamme: 4, 3, 7, 12, 3
+Darian Scherbluk: 1, 5, 6, 7, 10
+David Benson: 1, 4, 5, 2, 1
+Lukas Johnson: 1, 4, 5, 6, 8
+Andrey Barbashev: 2, 2, 4, 8, 1
+Ryan Sullivan: 0, 4, 4, 23, 7
+Alexander Kjærberg: 2, 1, 3, 24, 1
+Toki Wartooth: 1, 1, 2, 7, 15
+Nazar Nichushkin: 1, 0, 1, 8, 2
+Beau Ballard (R): 0, 1, 1, 5, 0
+John Luther: 0, 0, 0, 11, 3
+Computer Gwenael: 0, 0, 0, 0, 0
+Computer Hogan: 0, 0, 0, 0, 0
+ZzJack's Robot Praxia: 0, 0, 0, 0, 0
+Jed Lloren: 3, 9, 12, 32, 9
+Oliver Pettyfer: 6, 4, 10, 15, 2
+Zallerras Szlerchek: 2, 5, 7, 25, 3
+Bojo Biscuit: 2, 5, 7, 31, 8
+Ales Smirnov: 2, 5, 7, 8, 0
+Ivo Willems: 3, 3, 6, 19, 4
+Jim Lahey: 3, 3, 6, 25, 22
+Viktor Svensson: 1, 5, 6, 20, 13
+Roberts Birkavs: 1, 4, 5, 27, 2
+Damien Wert (R): 1, 4, 5, 3, 1
+Anton Fedorov (R): 4, 0, 4, 3, 2
+Clyde "Shadow" Arrowny: 0, 3, 3, 15, 3
+Slappy McDoodle: 0, 3, 3, 20, 4
+Fife Gibbs (R): 1, 1, 2, 5, 10
+Klaus Wagner (R): 0, 1, 1, 4, 10
+ZzJack's Robot Sweet Dee: 0, 0, 0, 0, 0
+ZzJack's Robot Janakowski: 0, 0, 0, 0, 0
+Computer Jaagup: 0, 0, 0, 0, 1
+Taylor McDavid: 5, 6, 11, 35, 1
+Patrik Šatan: 3, 7, 10, 4, 4
+Vidrik Onoprienko: 2, 7, 9, 26, 1
+Rembrandt Q. Einstein: 1, 8, 9, 18, 13
+Elyk: 4, 4, 8, 0, 0
+Jamers Both: 4, 2, 6, 0, 2
+Jed Hackert: 0, 6, 6, 11, 15
+Big Manious: 3, 2, 5, 22, 14
+Tyler Stropko: 2, 3, 5, 13, 9
+Emils Vilmenietis: 2, 3, 5, 12, 3
+Drew Myers: 1, 3, 4, 14, 20
+Steve Linkos: 0, 3, 3, 0, 0
+Bryce Collins: 1, 1, 2, 6, 1
+Mitchell Dambach (R): 1, 0, 1, 11, 1
+Jordan Uptuck (R): 0, 1, 1, 5, 5
 Computer Lexx: 0, 0, 0, 0, 0
 Computer Mikaelsson: 0, 0, 0, 0, 0
 Computer LaFollett: 0, 0, 0, 0, 0
