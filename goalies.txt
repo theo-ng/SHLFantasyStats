@@ -1,16 +1,30 @@
-Lauris Prikulis: 65.8
-Jamie Shetler: 58.35
-Valdemorts Karlensons: 55.65
-Arton Laxk: 54.6
-Mark Harter: 53.5
-Colin Schmidt: 53.25
-Jordin FourFour: 52.65
-Nikita Nevzorov (R): 51.3
-C.J. James: 51.3
-Hunter Wong: 49.95
-Jakob Tanner: 48
-Jackson Weekes: 48
-Jakub Aittokallio: 44.4
+Lauris Prikulis: 306.3
+Jackson Weekes: 299.5
+Colin Schmidt: 267.35
+Arton Laxk: 266.35
+C.J. James: 265.35
+Jakub Aittokallio: 257.6
+Jordin FourFour: 255.95
+Jamie Shetler: 248.5
+Valdemorts Karlensons: 243.35
+Hunter Wong: 241.85
+Dymo Ranjan: 239.05
+Jakob Tanner: 233.8
+Nikita Nevzorov (R): 233.05
+Mark Harter: 222.35
+Edwin Ask (TOT): 41.85
 Igor Ogorodnikov (R): 41.35
-Dymo Ranjan: 17.7
-Erik Lundqvist: 7.35
+Mike Verminski: 38.25
+Rob Pressen: 36.15
+Gustav Grimm (R): 33.75
+Lee Bowden: 33.6
+Erik Lundqvist: 33.3
+__Edwin Ask (WKP): 32.4
+Adam Demko (R): 31.65
+Mathias Lundgren: 28.65
+Eric White: 27.45
+Phil Osgoode: 26.1
+Kyle Cobb (R): 25.95
+Mike Schmidt (R): 25.05
+Antero Pelkonen: 10.5
+__Edwin Ask (EDM): 9.45
