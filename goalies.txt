@@ -1,30 +1,33 @@
-Lauris Prikulis: 306.3
-Jackson Weekes: 299.5
-Colin Schmidt: 267.35
-Arton Laxk: 266.35
-C.J. James: 265.35
-Jakub Aittokallio: 257.6
-Jordin FourFour: 255.95
-Jamie Shetler: 248.5
-Valdemorts Karlensons: 243.35
-Hunter Wong: 241.85
-Dymo Ranjan: 239.05
-Jakob Tanner: 233.8
-Nikita Nevzorov (R): 233.05
-Mark Harter: 222.35
-Edwin Ask (TOT): 41.85
-Igor Ogorodnikov (R): 41.35
-Mike Verminski: 38.25
-Rob Pressen: 36.15
-Gustav Grimm (R): 33.75
-Lee Bowden: 33.6
-Erik Lundqvist: 33.3
-__Edwin Ask (WKP): 32.4
-Adam Demko (R): 31.65
-Mathias Lundgren: 28.65
-Eric White: 27.45
-Phil Osgoode: 26.1
-Kyle Cobb (R): 25.95
-Mike Schmidt (R): 25.05
-Antero Pelkonen: 10.5
-__Edwin Ask (EDM): 9.45
+Colin Schmidt: 330
+Valdemorts Karlensons: 280.85
+Hunter Wong: 280.45
+Lauris Prikulis: 278.85
+Erik Lundqvist: 264.4
+Arton Laxk: 263.7
+Jakub Aittokallio: 255.6
+Jakob Tanner: 250.55
+Tyler No Nerves (R): 238.6
+Jackson Weekes (TOT): 237.3
+Dymo Ranjan (TOT): 237
+Mark Harter: 223.15
+Ryan Winters: 199.9
+Nikita Nevzorov: 160.35
+__Jackson Weekes (TEX): 134.1
+__Dymo Ranjan (MAN): 129.65
+__Dymo Ranjan (TEX): 107.35
+__Jackson Weekes (MAN): 103.2
+Mike Schmidt: 96.85
+Mathias Lundgren: 54.3
+Mike Verminski: 53.35
+Igor Ogorodnikov: 49.95
+Christoffer Bjornsson (R): 39.7
+Earnest Ciarelli (R): 38.1
+Gustav Grimm (R): 37.75
+Kyle Prince: 35.7
+Sergei Kozar: 35.5
+Rob Pressen: 35.35
+Edwin Ask: 34.95
+Phil Osgoode: 34.5
+Jamie Shetler: 28.8
+Noah Jackson: 25.05
+Andre Pfosten (R): 3.3

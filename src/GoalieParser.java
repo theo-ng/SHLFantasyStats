@@ -21,11 +21,11 @@ import org.jsoup.select.Elements;
 
 public class GoalieParser {
 
-	private static String s22url = "https://dl.dropboxusercontent.com/u/34714712/S25%20-%20SHL%20SMJHL%20MAIN/SHL-ProTeamScoring.html"; 
+	private static String index_url = "https://dl.dropboxusercontent.com/u/34714712/S26%20-%20SHL%20SMJHL%20MAIN/SHL-ProTeamScoring.html"; 
 
 	public static void main(String[] args) throws IOException {
-		print("Fetching %s...", s22url);
-		Document doc = Jsoup.connect(s22url).get();
+		print("Fetching %s...", index_url);
+		Document doc = Jsoup.connect(index_url).get();
 		Elements tstats = doc.select("table[class=basictablesorter STHSScoring_GoaliesTable]");
 		print("Parsing Goalie data");
 		parseNewData(tstats);

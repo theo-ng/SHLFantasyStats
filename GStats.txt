@@ -1,30 +1,33 @@
-Kyle Cobb (R): 1, 0, 153, 25.95
-Jamie Shetler: 19, 1, 1210, 248.5
-Hunter Wong: 23, 2, 1019, 241.85
-Mike Verminski: 6, 0, 135, 38.25
-Antero Pelkonen: 0, 0, 70, 10.5
-Edwin Ask (TOT): 4, 0, 199, 41.85
-__Edwin Ask (WKP): 4, 0, 136, 32.4
-__Edwin Ask (EDM): 0, 0, 63, 9.45
-Jakub Aittokallio: 27, 2, 1044, 257.6
-Gustav Grimm (R): 3, 0, 165, 33.75
-Jakob Tanner: 21, 1, 1072, 233.8
-Erik Lundqvist: 3, 0, 162, 33.3
-Jackson Weekes: 22, 7, 1090, 299.5
-Eric White: 1, 0, 163, 27.45
-C.J. James: 25, 3, 1069, 265.35
-Mathias Lundgren: 3, 0, 131, 28.65
-Jordin FourFour: 23, 2, 1113, 255.95
-Adam Demko (R): 2, 0, 171, 31.65
-Arton Laxk: 19, 4, 1129, 266.35
-Nikita Nevzorov (R): 15, 1, 1187, 233.05
-Mike Schmidt (R): 2, 0, 127, 25.05
-Phil Osgoode: 3, 0, 114, 26.1
-Valdemorts Karlensons: 25, 2, 989, 243.35
-Dymo Ranjan: 22, 1, 1087, 239.05
-Igor Ogorodnikov (R): 3, 1, 149, 41.35
-Mark Harter: 17, 2, 1009, 222.35
-Lee Bowden: 3, 0, 164, 33.6
-Colin Schmidt: 27, 2, 1109, 267.35
-Rob Pressen: 4, 0, 161, 36.15
-Lauris Prikulis: 27, 6, 1102, 306.3
+Jamie Shetler: 1, 0, 172, 28.8
+Tyler No Nerves (R): 21, 1, 1104, 238.6
+Hunter Wong: 25, 4, 1103, 280.45
+Mike Verminski: 6, 1, 169, 53.35
+Jakub Aittokallio: 20, 3, 1104, 255.6
+Edwin Ask: 3, 0, 173, 34.95
+Jakob Tanner: 22, 2, 1097, 250.55
+Gustav Grimm (R): 3, 1, 125, 37.75
+Christoffer Bjornsson (R): 3, 1, 138, 39.7
+Erik Lundqvist: 23, 4, 1036, 264.4
+Dymo Ranjan (TOT): 19, 3, 1000, 237
+__Dymo Ranjan (TEX): 9, 1, 469, 107.35
+__Dymo Ranjan (MAN): 10, 2, 531, 129.65
+Kyle Prince: 3, 0, 178, 35.7
+Mathias Lundgren: 6, 0, 242, 54.3
+Ryan Winters: 16, 1, 946, 199.9
+Earnest Ciarelli (R): 4, 0, 174, 38.1
+Arton Laxk: 22, 3, 1118, 263.7
+Nikita Nevzorov: 11, 0, 849, 160.35
+Mike Schmidt: 6, 1, 459, 96.85
+Phil Osgoode: 4, 0, 150, 34.5
+Valdemorts Karlensons: 28, 2, 1179, 280.85
+Igor Ogorodnikov: 5, 0, 233, 49.95
+Jackson Weekes (TOT): 16, 3, 1062, 237.3
+__Jackson Weekes (MAN): 5, 0, 588, 103.2
+__Jackson Weekes (TEX): 11, 3, 474, 134.1
+Noah Jackson: 2, 0, 127, 25.05
+Mark Harter: 20, 1, 1021, 223.15
+Andre Pfosten (R): 0, 0, 22, 3.3
+Sergei Kozar: 3, 1, 110, 35.5
+Colin Schmidt: 30, 9, 1000, 330
+Lauris Prikulis: 26, 3, 1139, 278.85
+Rob Pressen: 2, 1, 129, 35.35
